@@ -1,0 +1,37 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega32"</DEVICE>
+ <WORKING_DIR>C:\Users\ali\Desktop\TARRAHI PROJECT\AssemblerApplication1\AssemblerApplication1\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\ali\Desktop\TARRAHI PROJECT\AssemblerApplication1\AssemblerApplication1\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc\m32def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\ali\Desktop\TARRAHI PROJECT\AssemblerApplication1\AssemblerApplication1\Debug\AssemblerApplication1.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>AssemblerApplication1.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>AssemblerApplication1.map</FILE>
+  <FILE>AssemblerApplication1.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <L1><FILE>C:\Users\ali\Desktop\TARRAHI PROJECT\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>14</LINE></L1>
+  <L2><FILE>C:\Users\ali\Desktop\TARRAHI PROJECT\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>61</LINE></L2>
+  <L3><FILE>C:\Users\ali\Desktop\TARRAHI PROJECT\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>65</LINE></L3>
+  <L4><FILE>C:\Users\ali\Desktop\TARRAHI PROJECT\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>69</LINE></L4>
+  <L5><FILE>C:\Users\ali\Desktop\TARRAHI PROJECT\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>73</LINE></L5>
+  <L6><FILE>C:\Users\ali\Desktop\TARRAHI PROJECT\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>77</LINE></L6>
+  <L7><FILE>C:\Users\ali\Desktop\TARRAHI PROJECT\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>81</LINE></L7>
+  <L8><FILE>C:\Users\ali\Desktop\TARRAHI PROJECT\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>85</LINE></L8>
+  <L9><FILE>C:\Users\ali\Desktop\TARRAHI PROJECT\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>89</LINE></L9>
+  <L10><FILE>C:\Users\ali\Desktop\TARRAHI PROJECT\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>93</LINE></L10>
+  <L11><FILE>C:\Users\ali\Desktop\TARRAHI PROJECT\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>97</LINE></L11>
+ </LABELS>
+</ASSEMBLER_INFO>
